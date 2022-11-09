@@ -1,0 +1,4 @@
+com\github\mpriano\calculadora\controller\CalculadoraAritmeticaController.class
+com\github\mpriano\calculadora\controller\CalculadoraCientificaController.class
+com\github\mpriano\calculadora\Application.class
+com\github\mpriano\calculadora\config\SwaggerConfig.class
